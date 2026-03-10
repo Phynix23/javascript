@@ -7,5 +7,5 @@ const state = 'Lagos';
 const favouriteSubject = 'Chemistry'
 
 console.log(
-  `My name is ${fullName}. I am ${age} years old, I live in ${state}, and my favourite subject is ${favouriteSubject}`
+  `My name is ${fullName}. I am ${age} years old, I live in ${city} in ${state}, and my favourite subject is ${favouriteSubject}.`
 )
